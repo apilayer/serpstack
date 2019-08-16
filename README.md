@@ -18,10 +18,10 @@ All data streams sent from and to the serpstack API are protected using bank-gra
 Should you ever have technical or account-related questions, feel free to reach out to our world-class Sales & Customer Support team using the following link: [serpstack.com/contact](https://serpstack.com/contact)
 
 * **JSON, HTML, CSV & XML API**:
-Easy to use and lightning fast in its response, the userstack API is capable of delivering API results in JSON, CSV, XML or even HTML format. 
+Easy to use and lightning fast in its response, the serpstack API is capable of delivering API results in JSON, CSV, XML or even HTML format. 
 
 * **Unparalleled Speed**:
-Speed is key when it comes to scraping SERP data in real-time - all API requests sent to userstack are processed in just a few milliseconds. 
+Speed is key when it comes to scraping SERP data in real-time - all API requests sent to serpstack are processed in just a few milliseconds. 
 
 * **Full-Page Scraping**:
 A Google SERP consists of a series of elements, including ads, maps, answers, and more — serpstack will deliver any results to your application.
@@ -39,7 +39,7 @@ Our API will enable you to gather search results at scale from any city, region 
 An in-depth API documentation, including interactive code examples and extensive descriptions can be found at [serpstack.com/documentation](https://serpstack.com/documentation)
 
 ## Customer Support
-Need any assistance? [Get in touch with Customer Support](mailto:support@userstack.com).
+Need any assistance? [Get in touch with Customer Support](mailto:support@serpstack.com).
 
 ## Legal
 
