@@ -24,7 +24,7 @@ Easy to use and lightning fast in its response, the userstack API is capable of 
 Speed is key when it comes to scraping SERP data in real-time - all API requests sent to userstack are processed in just a few milliseconds. 
 
 * **Full-Page Scraping**:
-A Google SERP consists of a series of elements, including ads, maps, answers, and more — serpstack will deliver it all.
+A Google SERP consists of a series of elements, including ads, maps, answers, and more — serpstack will deliver any results to your application.
 
 * **Mobile, Tablet & Desktop**:
 Make use of the capability to scrape SERP pages in milliseconds using mobile, tablet and desktop devices.
